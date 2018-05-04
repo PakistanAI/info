@@ -1,0 +1,12 @@
+# AI related programs and initiatives in Universities in Pakistan
+- [FAST (Foundation of Advancement of Science and Technology)](http://www.nu.edu.pk/)
+  - [MS DATA SCIENCE](http://www.nu.edu.pk/Program/MS(DS)) in Karachi
+- [ITU (Information Technology University)](https://itu.edu.pk/) in Lahore
+  - [BS ECONOMICS WITH DATA SCIENCE](https://itu.edu.pk/admissions/bs-economics-with-data-science/)
+  - [MS DATA SCIENCE](https://itu.edu.pk/academics/ms-data-science/)
+- [UMT (University of Management and Technology)](https://www.umt.edu.pk/) in Lahore
+  - [MS DATA SCIENCES](https://admissions.umt.edu.pk/prog/MS-DS.aspx)
+- [IoBM (Institute of Business Management)](https://www.iobm.edu.pk/) in Karachi
+  - [BS DATA SCIENCE](https://ccsis.iobm.edu.pk/bachelor-programs/bs-data-science/)
+- [NEDUET (Nadirshaw Eduljee Dinshaw University of Engineering and Technology)](http://www.neduet.edu.pk/) in Karachi
+  - [MS Data Engineering and Information Management](http://www.neduet.edu.pk/sites/default/files/users/admission/prospectus/postgraduate/Final_2017-2018.pdf)
