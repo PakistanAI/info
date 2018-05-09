@@ -4,7 +4,7 @@ This repository includes all the general information you'll ever need in pursuin
 - a list of Pakistani companies in the AI domain
 - an [educational guide](https://github.com/PakistanAI/Educational_guide) on how to get started in AI
 - [AI in academia](/ai_in_academia.md) (research labs and degrees)
-- influential people in AI you can follow
+- [influential people](/people_in_ai.md) in AI you can follow
 - honest advice on how to get employed in the domain
 
 ## Contributions
