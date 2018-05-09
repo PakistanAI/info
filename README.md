@@ -8,4 +8,7 @@ This repository includes all the general information you'll ever need in pursuin
 - [honest advice](/honest_advice_for_employment.md) on how to get employed in the domain
 
 ## Contributions
-This page is completeley maintained by volunteers! If you feel that this guide must include more information then simply start an issue or issue a pull request. If you come across the following information then please contribute:
+This page is completeley maintained by volunteers! If you feel that this guide must include more information then simply start an issue, create a pull request or email at anasayubi7152@gmail.com (in case you are unfamiliar with github). If you come across the following information that is not present in the repository then please contribute:
+- AI related degrees and research labs [here](/ai_in_academia.md)
+- influential people to follow [here](/people_in_ai.md)
+- helpful educational material [here](https://github.com/PakistanAI/Educational_guide)
