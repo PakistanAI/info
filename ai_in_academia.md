@@ -4,9 +4,14 @@
 - [ITU (Information Technology University)](https://itu.edu.pk/) in Lahore
   - [BS ECONOMICS WITH DATA SCIENCE](https://itu.edu.pk/admissions/bs-economics-with-data-science/)
   - [MS DATA SCIENCE](https://itu.edu.pk/academics/ms-data-science/)
+  - [Data Science Lab](https://itu.edu.pk/research/data-science-lab/)
+  - [Intelligent Machines Lab](http://im.itu.edu.pk/)
 - [UMT (University of Management and Technology)](https://www.umt.edu.pk/) in Lahore
   - [MS DATA SCIENCES](https://admissions.umt.edu.pk/prog/MS-DS.aspx)
 - [IoBM (Institute of Business Management)](https://www.iobm.edu.pk/) in Karachi
   - [BS DATA SCIENCE](https://ccsis.iobm.edu.pk/bachelor-programs/bs-data-science/)
 - [NEDUET (Nadirshaw Eduljee Dinshaw University of Engineering and Technology)](http://www.neduet.edu.pk/) in Karachi
   - [MS Data Engineering and Information Management](http://www.neduet.edu.pk/sites/default/files/users/admission/prospectus/postgraduate/Final_2017-2018.pdf)
+  - [RCAI (Research Center For Artificial Intelligence)](http://www.rcai.pk/) 
+- [NUST (National University of Sciences and Technology)](http://www.nust.edu.pk/Pages/Default.aspx)
+  - [Video Analytics Lab](http://projects.pnec.nust.edu.pk/va/) in Karachi
