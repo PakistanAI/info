@@ -5,7 +5,7 @@ This repository includes all the general information you'll ever need in pursuin
 - an [educational guide](https://github.com/PakistanAI/Educational_guide) on how to get started in AI
 - [AI in academia](/ai_in_academia.md) (research labs and degrees)
 - [influential people](/people_in_ai.md) in AI you can follow
-- honest advice on how to get employed in the domain
+- [honest advice](/honest_advice_for_employment.md) on how to get employed in the domain
 
 ## Contributions
 This page is completeley maintained by volunteers! If you feel that this guide must include more information then simply start an issue or issue a pull request. If you come across the following information then please contribute:
