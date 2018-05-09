@@ -3,7 +3,7 @@ This repository includes all the general information you'll ever need in pursuin
 - common term definitions
 - a list of Pakistani companies in the AI domain
 - an educational guide on how to get started in AI
-- AI-related degrees in Pakistan
+- [AI in academia](/ai_in_academia.md) (labs and degrees)
 - influential people in AI you can follow
 
 ## Contributions
