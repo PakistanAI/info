@@ -12,6 +12,9 @@
   - [BS DATA SCIENCE](https://ccsis.iobm.edu.pk/bachelor-programs/bs-data-science/)
 - [NEDUET (Nadirshaw Eduljee Dinshaw University of Engineering and Technology)](http://www.neduet.edu.pk/) in Karachi
   - [MS Data Engineering and Information Management](http://www.neduet.edu.pk/sites/default/files/users/admission/prospectus/postgraduate/Final_2017-2018.pdf)
-  - [RCAI (Research Center For Artificial Intelligence)](http://www.rcai.pk/) 
+  - [RCAI (Research Center For Artificial Intelligence)](http://www.rcai.pk/)
 - [NUST (National University of Sciences and Technology)](http://www.nust.edu.pk/Pages/Default.aspx)
   - [Video Analytics Lab](http://projects.pnec.nust.edu.pk/va/) in Karachi
+  - [Computer Vision and Machine Learning Lab](http://www.cvml.io/) at SMME, Islamabad
+  - [TUKL-NUST R&D Centre](https://tukl.seecs.nust.edu.pk/) at SEECS, Islamabad
+  - [Robotics and Intelligent Systems Engineering Lab](http://rise.smme.nust.edu.pk/) at SMME, Islamabad
