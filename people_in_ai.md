@@ -48,8 +48,14 @@ Scientific Director of [IDSIA](http://www.idsia.ch/), Professor at USI, advisor 
 ### Kaiming He
 Among the creators of ResNet, Research Scientist at Facebook AI Research, Former Microsoft Research Asia. [(academic)](http://kaiminghe.com/), [(fb)](https://research.fb.com/people/he-kaiming/)
 
+### Manuela Veloso 
+Head of the Machine Learning Dept at Carnegie Mellon University. [(personal)](http://www.cs.cmu.edu/~mmv/)
+
 ### Matthew Zeiler
 Founder of [Clarifai](https://www.clarifai.com/about). [(personal)](http://www.matthewzeiler.com/)
+
+### Maxim Likhachev 
+Professor at Carnegie Mellon University. [(personal)](http://www.cs.cmu.edu/~maxim/)
 
 ### Michael Neilson
 Quantum Physicist and Computer Scientist, Research Fellow at Y Combinator Research. Author of Neural networks and deep learning [online book](http://neuralnetworksanddeeplearning.com/). [(personal)](michaelnielsen.org), [(twitter)](https://twitter.com/michael_nielsen)
