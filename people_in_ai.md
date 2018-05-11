@@ -63,8 +63,14 @@ Quantum Physicist and Computer Scientist, Research Fellow at Y Combinator Resear
 ### Nando de Freitas
 Professor at University of Oxford. [(personal)](http://www.cs.ubc.ca/~nando/), [(oxford)](https://www.cs.ox.ac.uk/people/nando.defreitas/), [(twitter)](https://twitter.com/nandodf?lang=en)
 
+### Peter Norvig 
+Director of Research, Google. Co-author of the quintessential AI book - [Artificial Intelligence: A Modern approach](http://aima.cs.berkeley.edu/). [(personal)](http://www.norvig.com/)
+
 ### Richard Sutton
 Considered father of modern Reinforcement Learning, Professor at University of Alberta. Author of [Reinforcement Learning book](http://incompleteideas.net/book/the-book-2nd.html). Advisor of David Silver. [(academic)](http://incompleteideas.net/).
+
+### Stuart Russell 
+Professor of Computer Science, UC Berkeley. Co-author of the quintessential AI book - [Artificial Intelligence: A Modern approach](http://aima.cs.berkeley.edu/).  [(berkeley)](https://people.eecs.berkeley.edu/~russell/) 
 
 ### Zhengyou  Zhang
 Principal Researcher and Research Manager at Microsoft Research. [(microsoft)](https://www.microsoft.com/en-us/research/people/zhang/)
