@@ -60,12 +60,15 @@ Professor at University of Oxford. [(personal)](http://www.cs.ubc.ca/~nando/), [
 ### Richard Sutton
 Considered father of modern Reinforcement Learning, Professor at University of Alberta. Author of [Reinforcement Learning book](http://incompleteideas.net/book/the-book-2nd.html). Advisor of David Silver. [(academic)](http://incompleteideas.net/).
 
+### Siraj Raval
+Owns a youtube channel dedicated to AI tutorials.He has also contributed in [Deep Learning Nanodegree Program](https://www.udacity.com/course/deep-learning-nanodegree--nd101) at Udacity. His youtube channel has 300K+ subscribers.He is also  very active at github with around 200+ repositories and 500+ contributions in the last year.[(youtube)](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A),[(github)](https://github.com/llSourcell),[(website)](https://github.com/llSourcell).
+
 ### Zhengyou  Zhang
 Principal Researcher and Research Manager at Microsoft Research. [(microsoft)](https://www.microsoft.com/en-us/research/people/zhang/)
 
 ### Yann LeCun
 Director of AI Research at Facebook, Founding Director of NYU Center for Data Science [(personal)](http://yann.lecun.com/)
 
-
 ### Yoshua Bengio
 Professor at University of Montreal, Head of the Montreal Institute for Learning Algorithms (MILA), advisor of Ian Goodfellow. [(academic)](https://mila.quebec/en/person/bengio-yoshua/), [(umontreal)](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
+
