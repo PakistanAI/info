@@ -48,8 +48,14 @@ Scientific Director of [IDSIA](http://www.idsia.ch/), Professor at USI, advisor 
 ### Kaiming He
 Among the creators of ResNet, Research Scientist at Facebook AI Research, Former Microsoft Research Asia. [(academic)](http://kaiminghe.com/), [(fb)](https://research.fb.com/people/he-kaiming/)
 
+### Manuela Veloso 
+Head of the Machine Learning Dept at Carnegie Mellon University. [(personal)](http://www.cs.cmu.edu/~mmv/)
+
 ### Matthew Zeiler
 Founder of [Clarifai](https://www.clarifai.com/about). [(personal)](http://www.matthewzeiler.com/)
+
+### Maxim Likhachev 
+Professor at Carnegie Mellon University. [(personal)](http://www.cs.cmu.edu/~maxim/)
 
 ### Michael Neilson
 Quantum Physicist and Computer Scientist, Research Fellow at Y Combinator Research. Author of Neural networks and deep learning [online book](http://neuralnetworksanddeeplearning.com/). [(personal)](michaelnielsen.org), [(twitter)](https://twitter.com/michael_nielsen)
@@ -57,11 +63,17 @@ Quantum Physicist and Computer Scientist, Research Fellow at Y Combinator Resear
 ### Nando de Freitas
 Professor at University of Oxford. [(personal)](http://www.cs.ubc.ca/~nando/), [(oxford)](https://www.cs.ox.ac.uk/people/nando.defreitas/), [(twitter)](https://twitter.com/nandodf?lang=en)
 
+### Peter Norvig 
+Director of Research, Google. Co-author of the quintessential AI book - [Artificial Intelligence: A Modern approach](http://aima.cs.berkeley.edu/). [(personal)](http://www.norvig.com/)
+
 ### Richard Sutton
 Considered father of modern Reinforcement Learning, Professor at University of Alberta. Author of [Reinforcement Learning book](http://incompleteideas.net/book/the-book-2nd.html). Advisor of David Silver. [(academic)](http://incompleteideas.net/).
 
 ### Siraj Raval
 Owns a youtube channel dedicated to AI tutorials.He has also contributed in [Deep Learning Nanodegree Program](https://www.udacity.com/course/deep-learning-nanodegree--nd101) at Udacity. His youtube channel has 300K+ subscribers.He is also  very active at github with around 200+ repositories and 500+ contributions in the last year.[(youtube)](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A),[(github)](https://github.com/llSourcell),[(website)](https://github.com/llSourcell).
+
+### Stuart Russell 
+Professor of Computer Science, UC Berkeley. Co-author of the quintessential AI book - [Artificial Intelligence: A Modern approach](http://aima.cs.berkeley.edu/).  [(berkeley)](https://people.eecs.berkeley.edu/~russell/) 
 
 ### Zhengyou  Zhang
 Principal Researcher and Research Manager at Microsoft Research. [(microsoft)](https://www.microsoft.com/en-us/research/people/zhang/)

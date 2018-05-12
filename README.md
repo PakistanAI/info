@@ -6,7 +6,7 @@ This repository includes all the general information you'll ever need in pursuin
 - [AI in academia](/ai_in_academia.md) (research labs and degrees)
 - [influential people](/people_in_ai.md) in AI you can follow
 - [honest advice](/honest_advice_for_employment.md) on how to get employed in the domain
-- [ML/DL software and frameworks in all programming languages](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software. 
+- A curated list of [awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning). 
 
 ## Contributions
 This page is completeley maintained by volunteers! If you feel that this guide must include more information then simply start an issue, create a pull request or email at anasayubi7152@gmail.com (in case you are unfamiliar with github). If you come across the following information that is not present in the repository then please contribute:
